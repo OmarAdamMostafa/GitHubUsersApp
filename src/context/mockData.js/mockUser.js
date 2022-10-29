@@ -23,7 +23,7 @@ export default {
 "location": null,
 "email": null,
 "hireable": null,
-"bio": null,
+"bio": "BUE Graduate / Front End Developer & UI/UX Designer",
 "twitter_username": null,
 "public_repos": 3,
 "public_gists": 0,
