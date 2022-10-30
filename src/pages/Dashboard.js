@@ -6,10 +6,10 @@ const Dashboard = () => {
   return (
     <main>
       {/* <Navbar></Navbar>
-      <Search/>
-      <Info/> */}
+      <Search/> */}
+      <Info/>
       <User/>
-      {/* <Repos/> */}
+      <Repos/>
     </main>
   );
 };
